@@ -36,3 +36,5 @@ build/
 # .env file for environment variables
 .env
 
+# For mac users
+.DS_Store
