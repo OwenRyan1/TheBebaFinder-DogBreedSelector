@@ -1,7 +1,7 @@
 # 🐶 Dog Breed Explorer
 
 Browse and explore information about dog breeds with this Java-based web application — built with Vaadin and powered by TheDogAPI and OpenAI.
-    - this was a school project!
+- this was a school project!
 
 ## 📚 Table of Contents
 
@@ -35,8 +35,8 @@ Browse and explore information about dog breeds with this Java-based web applica
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/dog-breed-explorer.git
-   cd dog-breed-explorer
+   git clone https://github.com/OwenRyan1/TheBebaFinder-DogBreedSelector
+   cd TheBebaFinder-DogBreedSelector
    ```
 
 2. **No additional installation needed**
@@ -73,6 +73,8 @@ Browse and explore information about dog breeds with this Java-based web applica
 6. **Breed data is stored** in-memory for fast access during runtime.
 
 ## 🏁 Starting the Application
+
+**Entry Point** - src/main/java/com/example/demo/DogInfoApplication.java
 
 1. **Using the Maven wrapper:**
 
