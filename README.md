@@ -1,4 +1,4 @@
-# 🐶 Dog Breed Explorer
+# 🐶 The Beba Finder - A Dog Breed Selector
 
 Browse and explore information about dog breeds with this Java-based web application — built with Vaadin and powered by TheDogAPI and OpenAI.
 - this was a school project!
